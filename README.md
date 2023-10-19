@@ -6,3 +6,4 @@ Como ja foi dito, esse site é um e-commerce então seu principal é vender os i
 * O site possui em sua pagina principal um carrocel que mostra alguns itens do site e alguns itens que são destaques do e-commerce.
 * Possui uma pagina para produtos com todos os produtos vendidos na loja.
 * Além disso o site tambem possui uma pagina com contatos para caso aja algum problema.
+Para criação deste site foi utilizado as linguagens de HTML e CSS, e tambem o framework bootstrap
