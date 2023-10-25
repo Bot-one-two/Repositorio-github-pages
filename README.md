@@ -13,4 +13,4 @@ Para criação deste site foi utilizado as linguagens de ![HTML5](https://img.sh
 
 ## Esse é o link do meu site:
 
-https://bot-one-two.github.io/Repositorio-github-pages/
+https://bot-one-two.github.io/Repositorio-github-pages/index.html
