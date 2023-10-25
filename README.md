@@ -10,3 +10,7 @@ Como ja foi dito, esse site é um e-commerce então seu principal é vender os i
 ## Framework e Linguagens utilizadas
 
 Para criação deste site foi utilizado as linguagens de ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) e ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white), e tambem o framework ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white).
+
+## Esse é o link do meu site:
+
+https://bot-one-two.github.io/Repositorio-github-pages/
